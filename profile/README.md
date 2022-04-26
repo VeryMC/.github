@@ -1,8 +1,4 @@
-## Hi there 👋
-
-<!--
-
-**VeryMc DevTeam keskesé ?**
+**VeryMc DevTeam mais keskesé ?**
 
 Nous sommes l'équipe de développement du serveur [VeryMc](https://discord.verymc.fr).
 
@@ -12,5 +8,3 @@ Vous devez postuler [ici](https://comply.verymc.fr/jobs/dev/) et si vous êtes a
 IMPORTANT: VeryMc ne développe pas en skript. Nous recrutons des vrais développeurs (java, js, ts, etc...)
 
 Page en cours de construction..
-
--->
