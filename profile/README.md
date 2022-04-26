@@ -17,7 +17,7 @@ Nous développons nos propres apis, plugins, page web par conséquent nous gardo
 
 ## Liens
 
-Site: https://verymc.fr
-Discord: https://discord.verymc.fr
-Ip du serveur minecraft: play.verymc.fr
-Postuler: https://comply.verymc.fr/jobs/dev
+Site: https://verymc.fr <br>
+Discord: https://discord.verymc.fr <br>
+Ip du serveur minecraft: play.verymc.fr <br>
+Postuler: https://comply.verymc.fr/jobs/dev <br>
