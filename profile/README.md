@@ -4,12 +4,12 @@ Nous sommes l'équipe de développement du serveur minecraft [VeryMc](https://di
 
 ## **Que faisons nous ?**
 
-Nous développons la partie web, minecraft et apis
+Nous développons la partie web, minecraft et api
 
 ## **Comment nous rejoindre ?**
 
 Vous devez postuler [ici](https://comply.verymc.fr/jobs/dev) et si vous êtes accepté, nous vous recontacterons. <br>
-⚠️ **IMPORTANT: VeryMc ne développe pas en skript. Nous recrutons des développeur utilisant des vrais langages (java, js, ts, etc...)**
+⚠️ **IMPORTANT: VeryMc ne développe pas en skript. Nous recrutons seulement des développeurs utilisant des vrais langages (java, js, ts, etc...)**
 
 ## Pourquoi je ne vois pas beaucoup de repo ?
 
