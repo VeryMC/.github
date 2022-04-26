@@ -8,7 +8,20 @@ Nous développons la partie web, minecraft et apis
 
 ## **Comment nous rejoindre ?**
 
-Vous devez postuler [ici](https://comply.verymc.fr/jobs/dev/) et si vous êtes accepté, nous vous recontacterons.
-**IMPORTANT: VeryMc ne développe pas en skript. Nous recrutons des développeur utilisant des vrais langages (java, js, ts, etc...)**
+↪️ Vous devez postuler [ici](https://comply.verymc.fr/jobs/dev/) et si vous êtes accepté, nous vous recontacterons.
+⚠️ **IMPORTANT: VeryMc ne développe pas en skript. Nous recrutons des développeur utilisant des vrais langages (java, js, ts, etc...)** ⚠️ 
 
-## Page en cours de construction..
+## Pourquoi je ne vois pas beaucoup de repo ?
+
+Nous développons nos propres apis, plugins, page web par conséquent nous gardons notre code privé.
+
+## Liens
+
+Site: https://verymc.fr
+Discord: https://discord.verymc.fr
+IP du serveur: play.verymc.fr
+Postuler: https://comply.verymc.fr/jobs/dev
+
+
+
+🚧 Page en cours de construction... 🚧
