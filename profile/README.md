@@ -1,10 +1,11 @@
 ## **VeryMc DevTeam mais keskesé ?**
 
-Nous sommes l'équipe de développement du serveur minecraft [VeryMc](https://discord.verymc.fr).
+Nous sommes l'équipe de développement du serveur minecraft [VeryMc](https://discord.verymc.fr). <br>
+Nous travaillons de façon bénévole.
 
 ## **Que faisons nous ?**
 
-Nous développons la partie web, minecraft et api
+Nous développons la partie web, minecraft et api du serveur.
 
 ## **Comment nous rejoindre ?**
 
