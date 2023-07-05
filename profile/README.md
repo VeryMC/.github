@@ -1,3 +1,7 @@
+# IMPORTANT
+
+**LE SERVEUR A FERMÉ.**
+
 ## **VeryMc DevTeam mais keskesé ?**
 
 Nous sommes l'équipe de développement du serveur minecraft [VeryMc](https://discord.verymc.fr). <br>
